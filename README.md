@@ -5,4 +5,4 @@ This is a observable where you we implement a observable and Rest Template to ca
 
 
 - http://localhost:8080/getHello
-- you can get from microservices 2 repository link: 
+- you can get from microservices 2 repository link: https://github.com/JohnBrix/Microservices-2/tree/master
